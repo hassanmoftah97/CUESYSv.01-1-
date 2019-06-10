@@ -143,7 +143,7 @@
             // 
             this.lbCueSys.AutoSize = true;
             this.lbCueSys.Font = new System.Drawing.Font("Consolas", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbCueSys.Location = new System.Drawing.Point(230, 12);
+            this.lbCueSys.Location = new System.Drawing.Point(229, 12);
             this.lbCueSys.Name = "lbCueSys";
             this.lbCueSys.Size = new System.Drawing.Size(277, 75);
             this.lbCueSys.TabIndex = 4;
